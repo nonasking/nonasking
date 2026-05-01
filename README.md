@@ -1,4 +1,4 @@
-## Hi, I'm Minseong 👋
+## Hi, I'm Minsung Kang 👋
 
 백엔드 개발자입니다.
 
