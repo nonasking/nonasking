@@ -1,10 +1,8 @@
-## Hi, I'm Minsung Kang 👋
+**Minsung Kang** · Backend Developer
 
-백엔드 개발자입니다.
+Python으로 밥 벌고, 가끔 Go로 딴짓합니다.
 
 <br/>
-
-**Tech Stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
