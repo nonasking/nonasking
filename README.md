@@ -1,6 +1,6 @@
 **Minsung Kang** · Backend Developer
 
-Python으로 일하고, 가끔 Go로 딴짓합니다.
+Python으로 일하고, 가끔 다른 언어로 딴짓합니다.
 
 <br/>
 
